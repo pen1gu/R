@@ -1,8 +1,8 @@
-"","name","age","gender"
-"1","hj",18,"male"
-"2","james",24,"male"
-"3","amy",54,"female"
-"4","su",234,"female"
-"5","robert",11,"male"
-"6","tom",3,"female"
-"7","ham",17,"male"
+name,age,gender
+hj,18,male
+james,24,male
+amy,54,female
+su,234,female
+robert,11,male
+tom,3,female
+ham,17,male
