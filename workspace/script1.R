@@ -1,3 +1,4 @@
-A <- c(1:5)
-A
-s
+install.packages("ggplot2")
+library(ggplot2)
+a <-c(1,2,3,2,3)
+qplot(data = mpg, x= drv,y=2)
